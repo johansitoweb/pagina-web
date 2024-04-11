@@ -1,4 +1,6 @@
 # create-svelte
+Esta es una pagina web creada con svelte figma html css y bootstrap
+![image](https://github.com/johansitoweb/pagina-web/assets/147890607/5963aa5d-d22b-4e8e-916a-bb1d8e2af192)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
